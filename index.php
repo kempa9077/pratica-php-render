@@ -19,7 +19,7 @@ echo "Hello World! - " . date("d/m/Y H:i:s");
 <p class="hora">Data e hora do servidor no momento do acesso.</p>
 
 <h2>Prática de Cloud Computing (PaaS) - Lucas Kempa</h2>
-<p>Aplicação publicada no Render.</p>
+<p>Aplicação publicada no Render com deploy automatico.</p>
 
 <h2>O que é hospedagem de aplicações?</h2>
 <p>
